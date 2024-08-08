@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ae8b4f9.css",
-    "main.js": "/static/js/main.db7e771f.js",
-    "static/js/787.f8d53299.chunk.js": "/static/js/787.f8d53299.chunk.js",
-    "static/media/jjmap.png": "/static/media/jjmap.8f4e69611d764bb94e14.png",
-    "static/media/homeBannerr.jpg": "/static/media/homeBannerr.377484ead0514d0bbdcc.jpg",
-    "static/media/background.png": "/static/media/background.3e0dc9eb05d5f0882cd7.png",
-    "static/media/sunshine.png": "/static/media/sunshine.4e2c354e36df151d0ec1.png",
-    "static/media/F37 Ginger Bold.ttf": "/static/media/F37 Ginger Bold.7562f09fd0f75924248b.ttf",
-    "static/media/F37 Ginger Thin Regular.ttf": "/static/media/F37 Ginger Thin Regular.6f45d7e8e1b530b97c62.ttf",
-    "static/media/F37 Ginger Regular.ttf": "/static/media/F37 Ginger Regular.979821e0d10dc0b9f745.ttf",
-    "static/media/jjlogo.png": "/static/media/jjlogo.d4f031cfb39b695c1bb8.png",
-    "static/media/F37 Ginger Light Regular.ttf": "/static/media/F37 Ginger Light Regular.6609601c03442d9e884c.ttf",
-    "static/media/jjnavbarOptions.png": "/static/media/jjnavbarOptions.8c6d14587bb5dccb4e9a.png",
-    "static/media/jjfooter.png": "/static/media/jjfooter.02e6c40309c9ff5f0b46.png",
-    "index.html": "/index.html",
-    "main.6ae8b4f9.css.map": "/static/css/main.6ae8b4f9.css.map",
-    "main.db7e771f.js.map": "/static/js/main.db7e771f.js.map",
-    "787.f8d53299.chunk.js.map": "/static/js/787.f8d53299.chunk.js.map"
+    "main.css": "/JJPlumbing/static/css/main.0db2e6cc.css",
+    "main.js": "/JJPlumbing/static/js/main.eb26e153.js",
+    "static/js/787.f8d53299.chunk.js": "/JJPlumbing/static/js/787.f8d53299.chunk.js",
+    "static/media/jjmap.png": "/JJPlumbing/static/media/jjmap.8f4e69611d764bb94e14.png",
+    "static/media/homeBannerr.jpg": "/JJPlumbing/static/media/homeBannerr.377484ead0514d0bbdcc.jpg",
+    "static/media/background.png": "/JJPlumbing/static/media/background.3e0dc9eb05d5f0882cd7.png",
+    "static/media/sunshine.png": "/JJPlumbing/static/media/sunshine.4e2c354e36df151d0ec1.png",
+    "static/media/F37 Ginger Bold.ttf": "/JJPlumbing/static/media/F37 Ginger Bold.7562f09fd0f75924248b.ttf",
+    "static/media/F37 Ginger Thin Regular.ttf": "/JJPlumbing/static/media/F37 Ginger Thin Regular.6f45d7e8e1b530b97c62.ttf",
+    "static/media/F37 Ginger Regular.ttf": "/JJPlumbing/static/media/F37 Ginger Regular.979821e0d10dc0b9f745.ttf",
+    "static/media/jjlogo.png": "/JJPlumbing/static/media/jjlogo.d4f031cfb39b695c1bb8.png",
+    "static/media/F37 Ginger Light Regular.ttf": "/JJPlumbing/static/media/F37 Ginger Light Regular.6609601c03442d9e884c.ttf",
+    "static/media/jjnavbarOptions.png": "/JJPlumbing/static/media/jjnavbarOptions.8c6d14587bb5dccb4e9a.png",
+    "static/media/jjfooter.png": "/JJPlumbing/static/media/jjfooter.02e6c40309c9ff5f0b46.png",
+    "index.html": "/JJPlumbing/index.html",
+    "main.0db2e6cc.css.map": "/JJPlumbing/static/css/main.0db2e6cc.css.map",
+    "main.eb26e153.js.map": "/JJPlumbing/static/js/main.eb26e153.js.map",
+    "787.f8d53299.chunk.js.map": "/JJPlumbing/static/js/787.f8d53299.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ae8b4f9.css",
-    "static/js/main.db7e771f.js"
+    "static/css/main.0db2e6cc.css",
+    "static/js/main.eb26e153.js"
   ]
 }
